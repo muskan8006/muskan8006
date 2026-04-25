@@ -58,7 +58,8 @@
 
 ### Core Areas
 
-<img src="https://img.shields.io/badge/DSA-00599C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-00599C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Software_Development-2ECC71?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Artificial_Intelligence-8E44AD?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Machine_Learning-27AE60?style=for-the-badge" />
 
