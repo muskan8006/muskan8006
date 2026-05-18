@@ -111,13 +111,11 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muskan8006&show_icons=true&theme=radical" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muskan8006&theme=github_dark)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskan8006&layout=compact&theme=radical" />
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muskan8006&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muskan8006&theme=github_dark)
 
 
 
