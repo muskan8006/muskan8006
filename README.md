@@ -69,6 +69,45 @@
 
 </div>
 
+## 🚀 My Projects
+
+### 🔹 AI & ML Projects
+- [AI-Powered-Disaster-Detection](https://github.com/muskan8006/AI-Powered-Disaster-Detection)  
+  AI-based disaster detection and alert system.
+
+- [student-performance-analysis](https://github.com/muskan8006/student-performance-analysis)  
+  Student performance prediction and analysis using Python.
+
+- [result-predictor](https://github.com/muskan8006/result-predictor)  
+  Result prediction system built with Python.
+
+---
+
+### 🔹 Web Development Projects
+- [Flight-Booking-website](https://github.com/muskan8006/Flight-Booking-website)  
+  Responsive flight booking website using HTML, CSS, JS.
+
+- [website-](https://github.com/muskan8006/website-)  
+  Frontend website project.
+
+- [cogniweb](https://github.com/muskan8006/cogniweb)  
+  Web-based project.
+
+---
+
+### 🔹 Python Projects
+- [password-generator](https://github.com/muskan8006/password-generator)
+
+- [todo-list-python](https://github.com/muskan8006/todo-list-python)
+
+- [student_data_analysis](https://github.com/muskan8006/student_data_analysis)
+
+---
+### 🔹 Flutter Project
+- [brospace-app](https://github.com/muskan8006/brospace-app)  
+  AI + Flutter + Firebase emotional support platform.
+
+---
 
 ## 📊 GitHub Stats
 
