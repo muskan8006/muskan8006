@@ -111,10 +111,9 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=muskan8006&show_icons=true&theme=tokyonight&hide_border=true" />
-</div>
+![Muskan's GitHub stats](https://github-readme-stats.vercel.app/api?username=muskan8006&show_icons=true&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muskan8006&layout=compact&theme=tokyonight)
 ---
 ## 🌐 Connect With Me
 
