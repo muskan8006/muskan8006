@@ -111,12 +111,13 @@
 
 ## 📊 GitHub Stats
 
-![Muskan's GitHub stats](https://github-readme-stats.vercel.app/api?username=muskan8006&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muskan8006&show_icons=true&theme=radical" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muskan8006&layout=compact&theme=tokyonight)
----
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskan8006&layout=compact&theme=radical" />
+</p>
 
 
 
