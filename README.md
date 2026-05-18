@@ -69,6 +69,16 @@
 
 </div>
 
+## 📊 GitHub Stats
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muskan8006&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muskan8006&theme=github_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muskan8006&theme=github_dark)
+
+
+
 ## 🚀 My Projects
 
 ### 🔹 AI & ML Projects
@@ -108,14 +118,6 @@
   AI + Flutter + Firebase emotional support platform.
 
 ---
-
-## 📊 GitHub Stats
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muskan8006&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=muskan8006&theme=github_dark)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muskan8006&theme=github_dark)
 
 
 
