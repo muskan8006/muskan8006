@@ -37,6 +37,17 @@
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/DSA-000000?style=for-the-badge&logo=thealgorithms&logoColor=white" />
 
+### Cybersecurity
+
+<img src="https://img.shields.io/badge/Cybersecurity-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=green" />
+<img src="https://img.shields.io/badge/Ethical_Hacking-111111?style=for-the-badge&logo=kalilinux&logoColor=blue" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Bug_Bounty-FF4500?style=for-the-badge&logo=bugatti&logoColor=white" />
+<img src="https://img.shields.io/badge/Web_Security-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Networking-0078D6?style=for-the-badge&logo=cisco&logoColor=white" />
+
+
 ### Developer Tools
 
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
