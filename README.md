@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 * 🎓 B.Tech CSE Student
-* 💻 Interested in DSA, Web Development, AI/ML and Cybersecurity
+* 💻 Interested in DSA, Software Development, AI/ML and Cybersecurity
 * 🌱 Currently learning and building projects
 * ⚡ Exploring new technologies and improving problem-solving skills
 
